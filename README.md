@@ -10,7 +10,7 @@ correctly under the symmetry?) and for *predictive accuracy* against the standar
 diagnostics (energy spectra and structure functions).
 
 <p align="center">
-  <video src="https://github.com/lizzij/3d-turbulence/raw/master/assets/turbulence.mp4" controls muted loop width="100%"></video>
+  <img src="assets/turbulence.gif" width="100%" alt="3D turbulence dataset visualization" />
 </p>
 
 ## Repository layout
