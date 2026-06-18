@@ -13,6 +13,10 @@ diagnostics (energy spectra and structure functions).
   <img src="assets/turbulence.gif" width="100%" alt="3D turbulence dataset visualization" />
 </p>
 
+<p align="center">
+  <a href="https://arxiv.org/abs/1911.08655">Towards Physics-informed Deep Learning for Turbulent Flow Prediction</a>
+</p>
+
 ## Repository layout
 - `UM/`, `Rot/` — single-symmetry baselines (uniform motion and rotation equivariance).
 - `Rot-UM/`, `Rot-UM-Mag/`, `Rot-UM-Scale/` — models that combine multiple symmetry groups (see experiments below).
